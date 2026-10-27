@@ -55,7 +55,7 @@ I identified the TCP three-way handshake:
 - ACK
 After the TCP connection was established, I could also see the TLS Client Hello, Server Hello, and encrypted Application Data.
 
-![Follow TCP Stream](screenshots/follow-tcp-stream-google.png)
+![TCP and TLS Google Connection](screenshots/tcp-tls-google-connection.png)
 
 ## Following a TCP Stream
 
